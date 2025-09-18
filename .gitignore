@@ -34,3 +34,9 @@
 *.user
 *.opensdf
 *.sdf
+
+# Clangd
+.cache/*
+
+# macOS
+.DS_Store
